@@ -18,4 +18,4 @@
 
 ## 游戏技能
 
-关于游戏技能介绍，请参考skill_intro.md(https://github.com/qiwnowinan/five--in-a-row/blob/main/skill_intro.md)
+关于游戏技能介绍，请参考[skill_intro](https://github.com/qiwnowinan/five--in-a-row/blob/main/skill_intro.md)
