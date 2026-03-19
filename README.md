@@ -15,3 +15,7 @@
 3.添加“Source”“Usage”“Modified”库；
 4.选择文件栏的添加文件，添加文件夹中的所有图片以及音频文件；
 5.添加完毕后，点击运行即可。
+
+## 游戏技能
+
+关于游戏技能介绍，请参考skill_intro.md(https://github.com/qiwnowinan/five--in-a-row/blob/main/skill_intro.md)
